@@ -17,9 +17,6 @@ const constraints = {
             lessThan: 100
         }
     },
-    gender: {
-        presence: true,
-    },
     email: {
         presence: true,
         email: true
